@@ -1,17 +1,3 @@
-![](https://img.shields.io/github/stars/hao14293/2020-Postgraduate-408.svg?color=red&logoColor=red) 
-![](https://img.shields.io/github/license/hao14293/2020-Postgraduate-408.svg)
-![](https://img.shields.io/github/issues/hao14293/2020-Postgraduate-408.svg)
-![](https://img.shields.io/github/languages/top/hao14293/2020-Postgraduate-408.svg?color=yellow)
-![](https://img.shields.io/github/commit-activity/w/hao14293/2020-Postgraduate-408.svg)
-![](https://img.shields.io/badge/build-passing-brightgreen.svg) 
-![](https://img.shields.io/github/search/hao14293/2020-Postgraduate-408/408.svg)
-![](https://img.shields.io/librariesio/github/hao14293/2020-Postgraduate-408.svg)
-
-
-
-<img src="https://i.loli.net/2018/11/18/5bf17b8557067.jpg" style="height: 50px;">
-
-
 ### 大家加油！有兴趣共同维护的可以联系我。Email：hao14293@qq.com</font>
 ## 再说一句，数学比专业课更重要！！！
 ***
